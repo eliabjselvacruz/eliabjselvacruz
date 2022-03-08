@@ -24,7 +24,7 @@ Hi, I am Eliab Javier Selva Cruz, a  Front-End Web Developer.
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/eliabjselvacruz/eliabjselvacruz">
-  <img src = "https://github-readme-stats.vercel.app/api?username=eliabjselvacruz&show_icons=true&line_height=27&count_private=true&theme=tokyonight">
+  <img src = "https://github-readme-stats.vercel.app/api?username=eliabjselvacruz&show_icons=true&line_height=27&count_private=true&theme=tokyonight" style="border-radius: 8px;">
 </a>
 <br>
 <a href="https://github.com/eliabjselvacruz/eliabjselvacruz">
