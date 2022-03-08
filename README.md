@@ -23,13 +23,12 @@ Hi, I am Eliab Javier Selva Cruz, a  Front-End Web Developer.
 
 ## &#x1f4c8; GitHub Stats
 
-![](https://img.shields.io/github/followers/eliabjselvacruz?color=blue&logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/eliabjselvacruz?color=hotpink&ithub&style=for-the-badge)
+![](https://img.shields.io/github/followers/eliabjselvacruz?color=blue&logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/eliabjselvacruz?color=hotpink&logo=github&style=for-the-badge)
 
 <a href="https://github.com/eliabjselvacruz/eliabjselvacruz">
   <img src = "https://github-readme-stats.vercel.app/api?username=eliabjselvacruz&show_icons=true&line_height=27&count_private=true&theme=tokyonight">
 </a>
 
-<br>
 
 <a href="https://github.com/eliabjselvacruz/eliabjselvacruz">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=eliabjselvacruz&layout=compact&theme=tokyonight">
