@@ -1,3 +1,7 @@
+<a href="https://github.com/eliabjselvacruz">
+  <img src="./assets/portfolio-banner.png" width="100%" height="auto">
+</a>
+
 # Hello 👋
 
 ## 👾 I’m currently working on ...
