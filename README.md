@@ -1,5 +1,5 @@
 <a href="https://github.com/eliabjselvacruz">
-  <img style="border-radius: 8px;" src="./assets/portfolio-banner.png" width="100%" height="auto">
+  <img src="./assets/portfolio-banner.png" width="100%" height="auto">
 </a>
 
 # Hello 👋
@@ -8,13 +8,13 @@ Hi, I am Eliab Javier Selva Cruz, a  Front-End Web Developer.
 ## 📌 I’m currently working on ...
 - My developer portfolio.
 
-## 🌱 I’m currently learning ..
+## 🌱 I’m currently learning ...
 - Callbacks in Javascript
 
 ## 👾 Skills
 - <img src = "./assets/html.png" width = "25px"> &nbsp; HTML
 - <img src = "./assets/css-3.png" width = "25px"> &nbsp; CSS
-  - MaterializeCSS
+  - Materialize
   - BootStrap 
 - <img src = "./assets/js.png" width = "25px"> &nbsp; JavaScript
 - <img src = "./assets/react.png" width = "25px"> &nbsp; React.js
@@ -22,6 +22,8 @@ Hi, I am Eliab Javier Selva Cruz, a  Front-End Web Developer.
 - <img src = "./assets/sql.png" width = "25px"> &nbsp; SQL
 
 ## &#x1f4c8; GitHub Stats
+
+![](https://img.shields.io/github/followers/eliabjselvacruz?color=blue&logo=github&style=for-the-badge) ![](https://img.shields.io/github/stars/eliabjselvacruz?color=purple&ithub&style=for-the-badge)
 
 <a href="https://github.com/eliabjselvacruz/eliabjselvacruz">
   <img src = "https://github-readme-stats.vercel.app/api?username=eliabjselvacruz&show_icons=true&line_height=27&count_private=true&theme=tokyonight">
