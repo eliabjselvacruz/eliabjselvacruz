@@ -9,7 +9,7 @@ Hi, I am Eliab Javier Selva Cruz, a  Front-End Web Developer.
 - My developer portfolio.
 
 ## 🌱 I’m currently learning ...
-- Callbacks in Javascript
+- Promises with Javascript.
 
 ## 👾 Skills
 - <img src = "./assets/html.png" width = "25px"> &nbsp; HTML
